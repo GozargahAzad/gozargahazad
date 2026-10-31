@@ -1,8 +1,7 @@
-vless://I@8.8.8.8:1?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%95%92%20%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A%201405/08/09%20-%2019%3A08
+vless://I@8.8.8.8:1?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%95%92%20%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%3A%201405/08/09%20-%2019%3A13
 vless://I@8.8.8.8:1?encryption=none&security=none&type=tcp&headerType=none#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D8%AD%D8%B3%D8%A7%D8%B3
 vless://I@8.8.8.8:1?encryption=none&security=none&type=tcp&headerType=none#%D8%AD%D8%AA%D9%85%D8%A7%20%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF
 vless://I@8.8.8.8:1?encryption=none&type=tcp&headerType=none&security=none#t.me/GozargahAzad%E2%9A%A1%EF%B8%8F
-trojan://humanity@212.183.88.136:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@GozargahAzad|🇦🇹
 trojan://humanity@154.81.141.42:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@GozargahAzad|🏁
 trojan://humanity@88.216.69.253:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@GozargahAzad|🏁
 trojan://humanity@108.162.194.134:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@GozargahAzad|🏁
@@ -62,3 +61,4 @@ vless://ceeee6cb-284a-46aa-8e0b-7d83a0de4787@185.19.33.35:8443?Telegram=@Gozarga
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#@GozargahAzad|🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#@GozargahAzad|🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#@GozargahAzad|🇳🇱
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.176.204.18:19999?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#@GozargahAzad|🇩🇪
